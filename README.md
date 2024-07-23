@@ -1,6 +1,7 @@
 # BookingApp
 
 BookingApp (UNDER DEVELOPMENT TO APPLY AND LEARN SOME SKILLS)
+
 Welcome to the BookingApp project! 🎉
 
 This is a full-stack application designed to replicate a booking website, providing a seamless experience for users to book services or appointments online. The project leverages modern web technologies to ensure a smooth, responsive, and efficient user experience.
